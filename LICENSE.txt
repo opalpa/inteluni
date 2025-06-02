@@ -1,0 +1,13 @@
+IntelUni License (Non-Commercial)
+
+Copyright (c) 2025 PJ Opalinski and Igor Naverniouk
+
+Permission is granted to use, modify, and distribute this software
+for non-commercial purposes only, with proper attribution.
+
+Commercial use, including incorporation into products, services, or
+paid platforms, is prohibited without prior written permission.
+
+Oscar Kilo Inc. retains full rights for commercial use and modification.
+
+Contact: pjo@oscarkilo.com
